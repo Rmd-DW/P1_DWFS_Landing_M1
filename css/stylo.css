@@ -89,10 +89,14 @@ main {
   background-color: var(--grey_light);
 }
 
-.calltoaction_main_text {
+.main_text {
   width: 100%;
   margin: 20px;
   padding: 20px;
+}
+
+.main_text H3{
+  color: var(--color5);
 }
 
 
@@ -155,6 +159,24 @@ footer {
   background-color: var(--grey_light);
   text-align: center;
 }
+
+.d_footer_desarrollado{
+ padding: 20px;
+ margin: 20px;
+
+
+}
+.d_footer_desarrollado h4{
+font-size: 24px;
+color: #81128B;
+}
+
+
+.footer_rrss{
+display: flex;
+
+}
+
 
 h1 {
   color: var(--white);
@@ -236,4 +258,68 @@ button {
   border: none;
   padding: 10px 20px;
   border-radius: 10%;
+}
+
+
+
+/* Estilos para tablet */
+
+@media (max-width: 1024px) {
+  header {
+    margin-top: 0;
+  }
+
+  .calltoaction_header {
+    margin-top: 150px;
+  }
+
+  .email-sign input {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .main_servicios {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+
+
+
+
+
+
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 767px) {
+  .calltoaction_header {
+    margin-top: 100px;
+  }
+
+  h1 {
+    font-size: 48px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+
+  .main_servicios {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+
+  .email-sign input {
+    width: 100%;
+    margin-left: 0;
+  }
 }
