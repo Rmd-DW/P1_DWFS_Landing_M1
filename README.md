@@ -5,7 +5,7 @@ Este proyecto consiste en la creación de una página "landing" para una Agencia
 
 ### Link: :pencil2:
 
-https://robuxui.github.io/P1_DWFS_Landing_M1/?classId=3171369d-975e-442e-bc3d-27ca2f25647f&assignmentId=df2454a9-07ad-4761-8458-7c80616cb944&submissionId=c7d45c5e-e6d9-665c-784c-ae3aab183ef9
+[https://robuxui.github.io/P1_DWFS_Landing_M1/?classId=3171369d-975e-442e-bc3d-27ca2f25647f&assignmentId=df2454a9-07ad-4761-8458-7c80616cb944&submissionId=c7d45c5e-e6d9-665c-784c-ae3aab183ef9](https://rmd-dw.github.io/P1_DWFS_Landing_M1/)
 
 ### Mensajes del negocio :mega:
 
